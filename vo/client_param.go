@@ -16,7 +16,7 @@
 
 package vo
 
-import "github.com/joy999/nacos-sdk-go/v2/common/constant"
+import "github.com/joy999/nacos-sdk-go/common/constant"
 
 type NacosClientParam struct {
 	ClientConfig  *constant.ClientConfig  // optional

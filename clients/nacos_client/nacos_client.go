@@ -22,9 +22,9 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/constant"
-	"github.com/joy999/nacos-sdk-go/v2/common/file"
-	"github.com/joy999/nacos-sdk-go/v2/common/http_agent"
+	"github.com/joy999/nacos-sdk-go/common/constant"
+	"github.com/joy999/nacos-sdk-go/common/file"
+	"github.com/joy999/nacos-sdk-go/common/http_agent"
 )
 
 type NacosClient struct {

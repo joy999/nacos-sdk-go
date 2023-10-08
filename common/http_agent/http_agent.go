@@ -20,11 +20,11 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/constant"
-	"github.com/joy999/nacos-sdk-go/v2/common/tls"
+	"github.com/joy999/nacos-sdk-go/common/constant"
+	"github.com/joy999/nacos-sdk-go/common/tls"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/logger"
-	"github.com/joy999/nacos-sdk-go/v2/util"
+	"github.com/joy999/nacos-sdk-go/common/logger"
+	"github.com/joy999/nacos-sdk-go/util"
 	"github.com/pkg/errors"
 )
 

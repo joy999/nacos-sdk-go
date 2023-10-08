@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/joy999/nacos-sdk-go/v2/clients/naming_client/naming_proxy"
-	"github.com/joy999/nacos-sdk-go/v2/util"
+	"github.com/joy999/nacos-sdk-go/clients/naming_client/naming_proxy"
+	"github.com/joy999/nacos-sdk-go/util"
 )
 
 func TestRedoSubscribe(t *testing.T) {

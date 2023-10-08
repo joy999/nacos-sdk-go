@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/logger"
-	"github.com/joy999/nacos-sdk-go/v2/model"
+	"github.com/joy999/nacos-sdk-go/common/logger"
+	"github.com/joy999/nacos-sdk-go/model"
 	"github.com/stretchr/testify/assert"
 )
 

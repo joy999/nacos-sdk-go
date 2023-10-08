@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/joy999/nacos-sdk-go/v2/clients/cache"
+	"github.com/joy999/nacos-sdk-go/clients/cache"
 	"golang.org/x/time/rate"
 )
 

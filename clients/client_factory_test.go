@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/constant"
-	"github.com/joy999/nacos-sdk-go/v2/vo"
+	"github.com/joy999/nacos-sdk-go/common/constant"
+	"github.com/joy999/nacos-sdk-go/vo"
 	"github.com/stretchr/testify/assert"
 )
 

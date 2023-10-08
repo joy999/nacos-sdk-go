@@ -20,7 +20,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/joy999/nacos-sdk-go/v2/util"
+	"github.com/joy999/nacos-sdk-go/util"
 )
 
 func post(client *http.Client, path string, header http.Header, timeoutMs uint64, params map[string]string) (response *http.Response, err error) {

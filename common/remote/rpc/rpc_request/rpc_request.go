@@ -16,7 +16,7 @@
 
 package rpc_request
 
-import "github.com/joy999/nacos-sdk-go/v2/util"
+import "github.com/joy999/nacos-sdk-go/util"
 
 type Request struct {
 	Headers   map[string]string `json:"-"`

@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/joy999/nacos-sdk-go/v2/common/remote/rpc/rpc_request"
-	"github.com/joy999/nacos-sdk-go/v2/common/remote/rpc/rpc_response"
+	"github.com/joy999/nacos-sdk-go/common/remote/rpc/rpc_request"
+	"github.com/joy999/nacos-sdk-go/common/remote/rpc/rpc_response"
 )
 
 type MockConnection struct {

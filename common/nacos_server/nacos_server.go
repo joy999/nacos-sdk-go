@@ -33,17 +33,17 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/remote/rpc/rpc_request"
+	"github.com/joy999/nacos-sdk-go/common/remote/rpc/rpc_request"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/monitor"
+	"github.com/joy999/nacos-sdk-go/common/monitor"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/constant"
-	"github.com/joy999/nacos-sdk-go/v2/common/http_agent"
-	"github.com/joy999/nacos-sdk-go/v2/common/logger"
-	"github.com/joy999/nacos-sdk-go/v2/common/nacos_error"
-	"github.com/joy999/nacos-sdk-go/v2/common/security"
-	"github.com/joy999/nacos-sdk-go/v2/inner/uuid"
-	"github.com/joy999/nacos-sdk-go/v2/util"
+	"github.com/joy999/nacos-sdk-go/common/constant"
+	"github.com/joy999/nacos-sdk-go/common/http_agent"
+	"github.com/joy999/nacos-sdk-go/common/logger"
+	"github.com/joy999/nacos-sdk-go/common/nacos_error"
+	"github.com/joy999/nacos-sdk-go/common/security"
+	"github.com/joy999/nacos-sdk-go/inner/uuid"
+	"github.com/joy999/nacos-sdk-go/util"
 )
 
 type NacosServer struct {

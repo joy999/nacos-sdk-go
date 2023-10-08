@@ -16,7 +16,7 @@
 
 package rpc_request
 
-import "github.com/joy999/nacos-sdk-go/v2/model"
+import "github.com/joy999/nacos-sdk-go/model"
 
 type ConfigRequest struct {
 	*Request

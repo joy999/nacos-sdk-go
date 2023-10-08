@@ -22,10 +22,10 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/ptypes/any"
-	nacos_grpc_service "github.com/joy999/nacos-sdk-go/v2/api/grpc"
-	"github.com/joy999/nacos-sdk-go/v2/common/remote/rpc/rpc_request"
-	"github.com/joy999/nacos-sdk-go/v2/common/remote/rpc/rpc_response"
-	"github.com/joy999/nacos-sdk-go/v2/util"
+	nacos_grpc_service "github.com/joy999/nacos-sdk-go/api/grpc"
+	"github.com/joy999/nacos-sdk-go/common/remote/rpc/rpc_request"
+	"github.com/joy999/nacos-sdk-go/common/remote/rpc/rpc_response"
+	"github.com/joy999/nacos-sdk-go/util"
 	"github.com/pkg/errors"
 
 	"google.golang.org/grpc"

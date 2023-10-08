@@ -20,9 +20,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/http_agent"
+	"github.com/joy999/nacos-sdk-go/common/http_agent"
 
-	"github.com/joy999/nacos-sdk-go/v2/common/constant"
+	"github.com/joy999/nacos-sdk-go/common/constant"
 	"github.com/stretchr/testify/assert"
 )
 
