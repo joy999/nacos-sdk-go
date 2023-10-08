@@ -1,6 +1,6 @@
 # Nacos-sdk-go [中文](./README_CN.md) #
 
-[![Build Status](https://travis-ci.org/nacos-group/nacos-sdk-go.svg?branch=master)](https://travis-ci.org/nacos-group/nacos-sdk-go) [![Go Report Card](https://goreportcard.com/badge/github.com/nacos-group/nacos-sdk-go)](https://goreportcard.com/report/github.com/nacos-group/nacos-sdk-go) ![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)
+[![Build Status](https://travis-ci.org/nacos-group/nacos-sdk-go.svg?branch=master)](https://travis-ci.org/nacos-group/nacos-sdk-go) [![Go Report Card](https://goreportcard.com/badge/github.com/joy999/nacos-sdk-go)](https://goreportcard.com/report/github.com/joy999/nacos-sdk-go) ![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)
 
 ---
 
@@ -19,7 +19,7 @@ Supported Nacos version over 2.x
 Use `go get` to install SDK：
 
 ```sh
-$ go get -u github.com/nacos-group/nacos-sdk-go/v2
+$ go get -u github.com/joy999/nacos-sdk-go/v2
 ```
 
 ## Quick Examples

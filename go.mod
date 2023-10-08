@@ -1,4 +1,4 @@
-module github.com/nacos-group/nacos-sdk-go/v2
+module github.com/joy999/nacos-sdk-go/v2
 
 go 1.18
 

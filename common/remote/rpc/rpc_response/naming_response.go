@@ -17,7 +17,7 @@
 package rpc_response
 
 import (
-	"github.com/nacos-group/nacos-sdk-go/v2/model"
+	"github.com/joy999/nacos-sdk-go/v2/model"
 )
 
 type ConnectResetResponse struct {

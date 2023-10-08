@@ -25,14 +25,14 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/nacos-group/nacos-sdk-go/v2/clients/nacos_client"
-	"github.com/nacos-group/nacos-sdk-go/v2/clients/naming_client/naming_cache"
-	"github.com/nacos-group/nacos-sdk-go/v2/clients/naming_client/naming_proxy"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
-	"github.com/nacos-group/nacos-sdk-go/v2/common/logger"
-	"github.com/nacos-group/nacos-sdk-go/v2/model"
-	"github.com/nacos-group/nacos-sdk-go/v2/util"
-	"github.com/nacos-group/nacos-sdk-go/v2/vo"
+	"github.com/joy999/nacos-sdk-go/v2/clients/nacos_client"
+	"github.com/joy999/nacos-sdk-go/v2/clients/naming_client/naming_cache"
+	"github.com/joy999/nacos-sdk-go/v2/clients/naming_client/naming_proxy"
+	"github.com/joy999/nacos-sdk-go/v2/common/constant"
+	"github.com/joy999/nacos-sdk-go/v2/common/logger"
+	"github.com/joy999/nacos-sdk-go/v2/model"
+	"github.com/joy999/nacos-sdk-go/v2/util"
+	"github.com/joy999/nacos-sdk-go/v2/vo"
 )
 
 // NamingClient ...
